@@ -1,0 +1,30 @@
+.beerBasket {
+    margin-bottom: auto;
+    width: 400px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #999999;
+    top: 30px;
+    right: 0;
+}
+
+.beerBasket > .content {
+    display: flex;
+    flex-direction: column;
+}
+
+.basketTitle {
+    display: flex;
+    justify-content: center;
+}
+
+.beerBasket div {
+    padding: 5px 10px;
+    display: flex;
+}
+
+.deleteBeersBtn {
+    padding: 3px 10px;
+    margin-left: auto;
+}

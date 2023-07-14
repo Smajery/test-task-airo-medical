@@ -1,0 +1,80 @@
+html,
+body {
+    min-height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    font-size: 16px;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+p {
+    color: inherit;
+}
+
+ul, li {
+    list-style: none;
+}
+
+input, textarea {
+    background: none;
+    color: inherit;
+    font: inherit;
+    text-decoration: none;
+}
+
+select {
+    background-color: transparent;
+    color: inherit;
+    font: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+button {
+    background-color: transparent;
+    color: inherit;
+    font: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    overflow: visible;
+}
+
+h1 {
+    font-size: 31px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+h5 {
+    font-size: 13px;
+}
+
+h6 {
+    font-size: 10px;
+}

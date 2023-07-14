@@ -1,0 +1,11 @@
+.beerPage {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.beerPage > .content {
+    padding: 40px 0;
+    width: 1280px;
+    display: flex;
+}

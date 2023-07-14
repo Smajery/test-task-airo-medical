@@ -1,8 +1,11 @@
-const App = () => {
-    return (
-        <div>
+import Main from './components/layout/Main/Main';
 
-        </div>
+const App = () => {
+
+    return (
+        <>
+            <Main />
+        </>
     );
 };
 

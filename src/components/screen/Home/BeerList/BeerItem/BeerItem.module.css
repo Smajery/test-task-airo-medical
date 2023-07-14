@@ -1,0 +1,17 @@
+.beerItem {
+    padding: 5px 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.beerItem.selected {
+    background-color: #bef8be !important;
+}
+
+.beerItem.whiteBackground {
+    background-color: #FFFFFF;
+}
+
+.beerItem.greyBackground {
+    background-color: #eeeded;
+}

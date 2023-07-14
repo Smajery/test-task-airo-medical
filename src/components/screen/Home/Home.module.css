@@ -1,0 +1,21 @@
+.homePage {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.homePage > .content {
+    padding-top: 40px;
+    width: 1280px;
+    position: relative;
+}
+
+.beerTitle {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.beerListContainer {
+    display: flex;
+}
